@@ -1,2 +1,2 @@
-# chubb30.7.2020
+# chubb30.6.2020
 Array Methods
